@@ -1,0 +1,10 @@
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/bin/Debug/netcoreapp2.0/ReceiveLogsDirect.deps.json
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/bin/Debug/netcoreapp2.0/ReceiveLogsDirect.runtimeconfig.json
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/bin/Debug/netcoreapp2.0/ReceiveLogsDirect.runtimeconfig.dev.json
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/bin/Debug/netcoreapp2.0/ReceiveLogsDirect.dll
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/bin/Debug/netcoreapp2.0/ReceiveLogsDirect.pdb
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/obj/Debug/netcoreapp2.0/ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/obj/Debug/netcoreapp2.0/ReceiveLogsDirect.AssemblyInfoInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/obj/Debug/netcoreapp2.0/ReceiveLogsDirect.AssemblyInfo.cs
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/obj/Debug/netcoreapp2.0/ReceiveLogsDirect.dll
+/Users/sharonrussell/Coding/RabbitCSharp/Routing/ReceiveLogsDirect/obj/Debug/netcoreapp2.0/ReceiveLogsDirect.pdb

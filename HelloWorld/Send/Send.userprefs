@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{95F48DD6-94B1-4022-9A69-65668E7F7130}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Send.cs">
+    <Files>
+      <File FileName="Send.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Send PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

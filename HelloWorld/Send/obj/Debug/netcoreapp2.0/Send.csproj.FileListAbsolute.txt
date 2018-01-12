@@ -1,0 +1,11 @@
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/bin/Debug/netcoreapp2.0/Send.deps.json
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.json
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.dev.json
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/bin/Debug/netcoreapp2.0/Send.dll
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/bin/Debug/netcoreapp2.0/Send.pdb
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.csprojResolveAssemblyReference.cache
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.csproj.CoreCompileInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfoInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfo.cs
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.dll
+/Users/sharonrussell/Coding/RabbitCSharp/HelloWorld/Send/obj/Debug/netcoreapp2.0/Send.pdb

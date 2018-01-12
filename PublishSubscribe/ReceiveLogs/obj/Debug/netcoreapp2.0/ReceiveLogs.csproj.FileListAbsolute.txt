@@ -1,0 +1,10 @@
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/bin/Debug/netcoreapp2.0/ReceiveLogs.deps.json
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/bin/Debug/netcoreapp2.0/ReceiveLogs.runtimeconfig.json
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/bin/Debug/netcoreapp2.0/ReceiveLogs.runtimeconfig.dev.json
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/bin/Debug/netcoreapp2.0/ReceiveLogs.dll
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/bin/Debug/netcoreapp2.0/ReceiveLogs.pdb
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/obj/Debug/netcoreapp2.0/ReceiveLogs.csproj.CoreCompileInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/obj/Debug/netcoreapp2.0/ReceiveLogs.AssemblyInfoInputs.cache
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/obj/Debug/netcoreapp2.0/ReceiveLogs.AssemblyInfo.cs
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/obj/Debug/netcoreapp2.0/ReceiveLogs.dll
+/Users/sharonrussell/Coding/RabbitCSharp/PublishSubscribe/ReceiveLogs/obj/Debug/netcoreapp2.0/ReceiveLogs.pdb
